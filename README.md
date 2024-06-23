@@ -1,48 +1,53 @@
 # Docturbaev Alihan 🙃
-# 🌐 Мой Путь в Веб-Разработку
-
-Привет! 👋 Я студент, изучающий веб-разработку, и это мой репозиторий на GitHub. Здесь я делюсь своим опытом и проектами, которые создаю во время обучения. Добро пожаловать! 🎉
-
-## 🛠️ Технологии
-
-Я изучаю и использую следующие технологии:
-
-- **HTML** 🌟 - язык разметки для создания структуры веб-страниц
-- **CSS** 🎨 - язык стилей для оформления веб-страниц
-- **JavaScript** 💻 - язык программирования для создания динамического контента и интерактивности
+# 🌐 My Path to Web Development
 
 
+Hello! 👋 I'm a web development student and this is my GitHub repository. Here I share my experience and the projects that I create during my studies. Welcome! 🎉
 
-## 🌱 Цели и Планы
+## 🛠️ Technology
 
-Мои текущие цели:
+I study and use the following technologies:
 
-- Улучшить понимание основ HTML, CSS и JavaScript
-- Создать несколько полноценных веб-сайтов
-- Изучить современные фреймворки и библиотеки
+- **HTML** 🌟 - markup language for creating the structure of web pages
+- **CSS** 🎨 - style language for designing web pages
+- **JavaScript** 💻 - programming language for creating dynamic content and interactivity
 
-Планы на будущее:
 
-- Изучить **React** ⚛️ и **Vue.js** 🖖
-- Освоить серверную часть с **Node.js** 🌐
-- Погрузиться в мир **REST API** и **GraphQL** 🔗
 
-## 📈 Прогресс
+## 🌱 Goals and Plans
 
-Я регулярно обновляю этот репозиторий, добавляя новые проекты и улучшая существующие. Следите за изменениями и не стесняйтесь оставлять свои отзывы и предложения!
+My current goals:
 
-## 🤝 Контакты
+- Improve understanding of the basics of HTML, CSS and JavaScript
+- Create several full-fledged websites
+- Explore modern frameworks and libraries
 
-Связаться со мной можно через:
+Future plans:
+
+- Learn **React** ⚛️ and **Vue.js** 🖖
+- Master the server side with **Node.js** 🌐
+- Dive into the world of **REST API** and **GraphQL** 🔗
+
+
+## 📈 Progress
+
+I regularly update this repository, adding new projects and improving existing ones. Follow the changes and don't hesitate to leave your feedback and suggestions!
+
+
+
+## 🤝 Contacts
+
+You can contact me through:
 
 
 - [Telegram](https://t.me/Slogk5) 🐦
 - [Email](mailto:sloganloh69@gmail.com) 📧
 
-Спасибо за интерес к моим проектам! 🚀
+
+Thank you for your interest in my projects! 🚀
 
 
 ---
 
-⭐️ Если вам понравилось то, что вы видите, пожалуйста, поставьте звезду этому репозиторию! ⭐️
+⭐️ If you like what you see, please give this repository a star! ⭐️
 
