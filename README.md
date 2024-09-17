@@ -1,9 +1,9 @@
 # Docturbaev Alihan 🙃
 # 🌐 My Path to Web Development
 
-Hello! 👋 I’m a web development student, and this is my GitHub repository. Here I share my experience and the projects I’ve created during my studies. Welcome! 🎉
+#Hello! 👋 I’m a web development student, and this is my GitHub repository. Here I share my experience and the projects I’ve created during my studies. Welcome! 🎉
 
-🛠️ Technology
+#🛠️ Technology
 I study and use the following technologies:
 • HTML 🌟 - markup language for creating the structure of web pages
 • CSS/SCSS 🎨 - style languages for designing and enhancing web pages
@@ -17,7 +17,7 @@ I study and use the following technologies:
 • SQL 🗄️ - used for working with data and databases
 • SCSS 🎨 - an extension of CSS that adds power and elegance to the basic language
 
-🌱 Goals and Plans
+#🌱 Goals and Plans
 I have achieved my initial goals:
 • Gained a strong understanding of HTML, CSS, SCSS, and JavaScript
 • Created several full-fledged websites
@@ -26,19 +26,19 @@ I have achieved my initial goals:
 • Developed teamwork skills by collaborating on projects
 • Gained various smaller skills in web development, such as debugging, optimization, responsive design, and much more
 
-Now, my focus is on:
+#Now, my focus is on:
 • Becoming a full-stack developer
 • Deepening my knowledge of backend and frontend technologies
 • Mastering advanced data handling with SQL and further exploring GraphQL 🔗
 • Continuously improving and expanding my skill set
 
-📈 Progress
-I regularly update this repository, adding new projects and improving existing ones. Follow the changes and feel free to leave feedback and suggestions!
 
-🤝 Contacts
-You can reach me through:
-• Telegram 🐦
-• Email 📧
+
+
+#🤝 Contacts
+
+• [**Telegram** 🐦](https://t.me/slogk5)  
+• [**Email** 📧](mailto:sloganloh69@gmail.com)
 
 Thank you for your interest in my projects! 🚀
 
