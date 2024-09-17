@@ -3,7 +3,7 @@
 
 #Hello! 👋 I’m a web development student, and this is my GitHub repository. Here I share my experience and the projects I’ve created during my studies. Welcome! 🎉
 
-#🛠️ Technology
+##🛠️ Technology
 I study and use the following technologies:
 • HTML 🌟 - markup language for creating the structure of web pages
 • CSS/SCSS 🎨 - style languages for designing and enhancing web pages
