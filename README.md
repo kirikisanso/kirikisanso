@@ -32,11 +32,11 @@ I have achieved my initial goals:
 • Mastering advanced data handling with SQL and further exploring GraphQL 🔗
 • Continuously improving and expanding my skill set
 
-
-
+#📈 Progress
+I regularly update this repository, adding new projects and improving existing ones. Follow the changes and feel free to leave feedback and suggestions!
 
 #🤝 Contacts
-
+You can reach me through:
 • [**Telegram** 🐦](https://t.me/slogk5)  
 • [**Email** 📧](mailto:sloganloh69@gmail.com)
 
